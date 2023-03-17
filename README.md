@@ -36,6 +36,7 @@ Note that the database configuration file is located in `bootstrap/app.php`, so 
 
 ## Dependencies Notes
 I did use some libraries, namely 
+```
 {
 "autoload": {
     "psr-4": {
@@ -55,7 +56,7 @@ I did use some libraries, namely
         "phpunit/phpunit": "^10"
     }
 }
-
+```
 1. Illuminate/database being eloquent
 2. psr/container i did a minimal implementation of a container
 3. in the test it said "List of your test cases and data" so not being sure what that meant i did 2 really small unit tests on the check endpoint
