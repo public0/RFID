@@ -11,7 +11,7 @@ This is a developer test for SGNL, aimed at implementing a system that grants ac
 ## Installation
 
 PHP version 8.1.12
-MYSQL 10.7.3
+MariaDB 10.7.3
 
 To install and run the project, follow these steps:
 
