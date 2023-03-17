@@ -24,7 +24,9 @@ Note that the database configuration file is located in `bootstrap/app.php`, so 
 ```php composer.phar install```
 
 4. Run the PHP built-in web server by running the following command inside the project folder: 
-php -S localhost:8000
+
+```php -S localhost:8000```
+
 (you can use a different port number if needed).
 5. Initialize the database by going to `http://localhost:8000/public/migrate` using CURL, POSTMAN, or any browser.
 6. Finally, test the endpoint by accessing `http://localhost:8000/public/check?token=142594708f3a5a3ac2980914a0fc954f`
