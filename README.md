@@ -59,7 +59,7 @@ I did use some libraries, namely
 ```
 1. Illuminate/database being eloquent
 2. psr/container i did a minimal implementation of a container
-3. in the test it said "List of your test cases and data" so not being sure what that meant i did 2 really small unit tests on the check endpoint
+3. in the test it said "List of your test cases and data" so not being sure what that meant i did 2 really small unit tests on the check endpoint, there are also the migration/seed files that can be viewed inside the database/ folder.
 
 ## SCHEMA
 Should be visible in the Wiki Pages or <a href="https://github.com/public0/RFID/wiki">Here</a>. Image is hosted for 3 weeks after that it will be deleted by the hosting providers.
