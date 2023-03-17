@@ -30,6 +30,6 @@ php -S localhost:8000
 6. Finally, test the endpoint by accessing `http://localhost:8000/public/check?token=142594708f3a5a3ac2980914a0fc954f`
 
 ## SCHEMA
-Should be visible in the Wiki or <a href="https://github.com/public0/RFID/wiki">SCHEMA</a>. Image is hosted for 3 weeks after that it will be deleted by the hosting providers.
+Should be visible in the Wiki Pages or <a href="https://github.com/public0/RFID/wiki">Here</a>. Image is hosted for 3 weeks after that it will be deleted by the hosting providers.
 
 That's it! You should now have the system up and running.
